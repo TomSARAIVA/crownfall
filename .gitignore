@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Godot
+.godot/
+*.translation
+export_presets.cfg
+
+# OS
+.DS_Store
+Thumbs.db
